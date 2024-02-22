@@ -27,7 +27,7 @@
     "node": ">=20.0.0"
   },
   "dependencies": {
-    "@netlogix/stencil-styleguide-output-target": "github:netlogix/stencil-styleguide-output-target",
+    "@netlogix/stencil-styleguide-output-target": "./packages/stencil-styleguide-output-target",
     "@pattern-lab/cli": "^6.1.0",
     "@pattern-lab/core": "^6.1.0",
     "@pattern-lab/engine-handlebars": "^6.1.0",

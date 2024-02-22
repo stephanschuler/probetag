@@ -1,7 +1,7 @@
+/public/*
+/www/*
+/dist
 node_modules
-public
-www
-dist
 .stencil
 dependencyGraph.json
 src/scripts/components/**/readme.md

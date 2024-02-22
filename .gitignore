@@ -4,3 +4,4 @@ www
 dist
 .stencil
 dependencyGraph.json
+src/scripts/components/**/readme.md

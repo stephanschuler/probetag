@@ -32,6 +32,7 @@ export const config: Config = {
       rollupOptions: [
         {
           input: [
+            'src/css/style.scss',
             'src/scss/style.scss',
           ],
           plugins: [
@@ -79,6 +80,7 @@ export const config: Config = {
   plugins: [
     sass({
       injectGlobalPaths: [
+        'src/css/style.scss',
         'src/scss/style.scss',
       ]
     }),
